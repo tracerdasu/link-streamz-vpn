@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "active": null,
+  "files": [
+    {
+      "id": "mw6ihs3m1jd",
+      "name": "jkknguio-usa3ja.conf",
+      "type": "wireguard",
+      "path": "vpn/files/mw6ihs3m1jd.conf",
+      "size": 245,
+      "sha256": "1032ac51e92273c3608d29aa4b997a7e0c755a1616938914a3b7a296b85d8b49",
+      "at": "2026-11-07T14:41:51.009Z",
+      "exp": "2026-11-14T14:41:51.009Z",
+      "host": "usa3.vpnjantit.com:1024"
+    }
+  ],
+  "updatedAt": "2026-11-07T14:41:51.009Z"
+}
