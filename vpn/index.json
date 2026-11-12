@@ -12,7 +12,18 @@
       "at": "2026-11-07T14:41:51.009Z",
       "exp": "2026-11-14T14:41:51.009Z",
       "host": "usa3.vpnjantit.com:1024"
+    },
+    {
+      "id": "mwduih0c4us",
+      "name": "tracer345-usa3j.conf",
+      "type": "wireguard",
+      "path": "vpn/files/mwduih0c4us.conf",
+      "size": 246,
+      "sha256": "22301f3957e5dab6e4349e4c0c3ed1627052db6eac0032fcd25fa2453ea7fde4",
+      "at": "2026-11-12T17:52:42.506Z",
+      "exp": "2026-11-19T17:52:42.506Z",
+      "host": "usa3.vpnjantit.com:1024"
     }
   ],
-  "updatedAt": "2026-11-12T17:08:51.692Z"
+  "updatedAt": "2026-11-12T17:52:42.506Z"
 }
